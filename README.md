@@ -6,7 +6,7 @@
 - Pytorch 1.7
 
 [개요]
-- 모델 : KcElectra
+- 모델 : KcElectra (한국어 댓글로 학습된 Pretained Model)
 - 모듈 : SNS 원문에 대한 긍부정 분류
 - Input Feature : "document", "label:긍정=1, 부정=0"
 - Ouput : "document", "label", "긍부정 predict:긍정=pos, 부정=neg"
